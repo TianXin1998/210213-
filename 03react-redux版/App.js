@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-02-14 14:33:41
  */
 import React, { Component } from 'react';
-import Count from './containers/count_container';
+import Count from './containers/count';
 
 export default class App extends Component {
   render() {
